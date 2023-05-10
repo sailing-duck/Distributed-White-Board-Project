@@ -2,9 +2,6 @@ package client;
 
 import java.awt.*;
 
-//Student name: Yuanhang Liu
-//Student ID: 1200403
-
 public class MyCanvas extends Canvas{
     
 	private static final long serialVersionUID = 1L;
