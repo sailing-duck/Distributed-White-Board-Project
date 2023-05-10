@@ -43,9 +43,6 @@ import javax.swing.JMenuItem;
 import javax.swing.JMenu;
 import javax.swing.JMenuBar;
 
-//Student name: Yuanhang Liu
-//Student ID: 1200403
-
 public class ServerPaint
 {
 	private BufferedImage image = new BufferedImage(600, 420, BufferedImage.TYPE_INT_RGB); // image to paint on the canvas 
