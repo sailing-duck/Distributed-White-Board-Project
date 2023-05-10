@@ -30,9 +30,6 @@ import javax.swing.JOptionPane;
 
 import org.json.JSONObject;
 
-//Student name: Yuanhang Liu
-//Student ID: 1200403
-
 public class ClientMain
 {
 	private static String ip; // server ip address in string format
