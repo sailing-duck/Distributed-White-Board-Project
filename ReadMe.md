@@ -1,3 +1,9 @@
+COMMAND EXAMPLES TO RUN
+--------------------------------------------------------------------------
+java -jar CreateWhiteBoard.jar localhost 3005 server
+java -jar JoinWhiteBoard.jar localhost 3005 client
+
+
 PROJECT GOAL
 --------------------------------------------------------------------------
 
