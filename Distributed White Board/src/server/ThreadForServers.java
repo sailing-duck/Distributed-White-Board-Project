@@ -13,9 +13,6 @@ import java.util.List;
 
 import javax.swing.JOptionPane;
 
-//Student name: Yuanhang Liu
-//Student ID: 1200403
-
 public class ThreadForServers extends Thread
 {
 	private final int port;
