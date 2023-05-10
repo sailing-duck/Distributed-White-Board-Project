@@ -5,9 +5,6 @@ import java.net.ConnectException;
 
 import javax.swing.JOptionPane;
 
-//Student name: Yuanhang Liu
-//Student ID: 1200403
-
 public class ServerMain {
 	
 	private static int port; // server starting port
